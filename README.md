@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Łukasz. I have always been interested in technology and creating new products. In May 2021, I started studying programming intensively. Programming has become something that gives me great joy and satisfaction. I would very much like to start working as a programmer. Every day I want to improve my skills with experienced programmers.
+My name is Łukasz. I have always been interested in technology and creating new products. In May 2021, I started studying programming intensively. Programming has become something that gives me great joy and satisfaction. I would very much like to start working as a programmer. I want to improve my skills with experienced programmers.
 
 ### My technology stack
 <p align="left">
