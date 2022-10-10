@@ -28,7 +28,7 @@ My name is Łukasz. I have always been interested in technology and creating new
 ## Projects 🚩
 
 ### InvoiceApp
-The application is my new full-stack project. I designed and made the views, backend and frontend myself. The application was designed with a mobile first approach. The frontend part of application is under development 
+The application is my new full-stack project. I designed and made the views, backend and frontend myself. The application was designed with a mobile first approach. The frontend part of application is under development. The application simplify the process of creating invoices and managing the customer base.
 
 <p>Frontend: https://github.com/LukaszAmbrozewski/InvoiceApp-frontend</p>
 <p>Backend: https://github.com/LukaszAmbrozewski/InvoiceApp-backend</p>
