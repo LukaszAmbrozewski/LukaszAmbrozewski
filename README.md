@@ -32,8 +32,7 @@ The application is my new full-stack project. I designed and made the views, bac
 
 <p>Frontend: https://github.com/LukaszAmbrozewski/InvoiceApp-frontend</p>
 <p>Backend: https://github.com/LukaszAmbrozewski/InvoiceApp-backend</p>
-<p>Mobile demo: https://youtu.be/NoDumpZMJ1E</p>
-<p>Laptop or pc demo: https://youtu.be/xWB28_-xcV4</p>
+<p>Demo: https://youtu.be/UZD3GzYPuu8</p>
 
 #### Technologies used
 <p align="left">
