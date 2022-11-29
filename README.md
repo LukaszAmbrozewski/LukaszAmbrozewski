@@ -27,6 +27,32 @@ My name is Łukasz. I have always been interested in technology and creating new
 
 ## Projects 🚩
 
+### Personal Website
+
+This is a website where I introduce myself. It contains all the necessary information about the technologies I work in. The site also includes contact information and a portfolio showing the projects I have worked on.
+The website is fully responsive. I made the project myself using figma and gimp. 
+
+<a href="https://www.lukaszambrozewski.pl/" target="_blank" rel="noreferrer">
+<img src="./images/PersonalWebsite.gif" alt="personal website screen gif" height="400"/>
+</a>&nbsp; &nbsp;&nbsp;&nbsp;
+
+<p>Frontend: https://github.com/LukaszAmbrozewski/PersonalWebsite</p>
+<p>Live: https://www.lukaszambrozewski.pl/</p>
+
+
+#### Technologies used
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+</br>
+</br>
+
 ### InvoiceApp
 The application is my new full-stack project. I designed and made the views, backend and frontend myself. The application was designed with a mobile first approach. The frontend part of application is under development. The application simplify the process of creating invoices and managing the customer base.
 
