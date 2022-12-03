@@ -32,7 +32,7 @@ My name is Łukasz. I have always been interested in technology and creating new
 This is a website where I introduce myself. It contains all the necessary information about the technologies I work in. The site also includes contact information and a portfolio showing the projects I have worked on.
 The website is fully responsive. I made the project myself using figma and gimp. 
 
-<a href="https://www.lukaszambrozewski.pl/" target="_blank" rel="noreferrer">
+<a href="https://lukaszambrozewski.pl/" target="_blank" rel="noreferrer">
 </br>
 <img src="./images/personalWebsiteScreen.png" alt="personal website screen gif" height="400"/>
 </a>&nbsp; &nbsp;&nbsp;&nbsp;
