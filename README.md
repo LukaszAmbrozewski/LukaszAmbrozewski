@@ -23,11 +23,13 @@ My name is Łukasz. I have always been interested in technology and creating new
 
 ### 🌱 I'm currently improve me skills in NestJS and React.js.
 
+</br>
 
 ## My social activity
 In October 2022, I started as a <b>Junior React Developer</b> at the Neuron Foundation. Together with a team of IT professionals, we are building a platform to bring together the design community. Being active in the foundation allows me to combine helping others with my passion, which is programming.
 <p><img src="./images/acronBanner.svg" alt="personal website screen gif" height="30"/></p>
 
+</br>
 
 ## Projects 🚩
 
