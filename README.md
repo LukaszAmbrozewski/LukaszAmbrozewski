@@ -34,7 +34,7 @@ The website is fully responsive. I made the project myself using figma and gimp.
 
 <a href="https://www.lukaszambrozewski.pl/" target="_blank" rel="noreferrer">
 </br>
-<img src="./images/PersonalWebsite.gif" alt="personal website screen gif" height="400"/>
+<img src="./images/personalWebsiteScreen.png" alt="personal website screen gif" height="400"/>
 </a>&nbsp; &nbsp;&nbsp;&nbsp;
 
 <p>Frontend: https://github.com/LukaszAmbrozewski/PersonalWebsite</p>
