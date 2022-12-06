@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Łukasz. I have always been interested in technology and creating new products. In May 2021, I started studying programming intensively. Programming has become something that gives me great joy and satisfaction. I would very much like to start working as a programmer. I want to improve my skills with experienced programmers.
+I have always been interested in technology and creating new products. In May 2021, I started intensive programming learning. Programming gives me great satisfaction, and the specificity of a programmer's work is something that fits perfectly into my predispositions. I am a person who does not like to stand still. It is amazing to me how huge development opportunities the IT industry offers. In October 2022, I started an internship at the NeuroN Foundation as a <b>Junior React Developer</b>. Together with a team of IT specialists, we are creating a platform whose task will be to bring together the design community. Thanks to my activity in the foundation, I combine the possibility of helping others with my passion, which is programming. In my team, we work in the SCRUM methodology using professional tools such as Jira, Figma, Slack.
+
+</br>
+<p><img src="./images/acronBanner.svg" alt="acron project logo" height="50"/></p>
+
+</br>
 
 ## My technology stack
 <p align="left">
@@ -15,6 +20,8 @@ My name is Łukasz. I have always been interested in technology and creating new
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> &nbsp; &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
 </p>
 
 </br>
@@ -22,12 +29,6 @@ My name is Łukasz. I have always been interested in technology and creating new
 ###  👨‍💼 I'm looking for a job.
 
 ### 🌱 I'm currently improve me skills in NestJS and React.js.
-
-</br>
-
-## My social activity
-In October 2022, I started as a <b>Junior React Developer</b> at the Neuron Foundation. Together with a team of IT professionals, we are building a platform to bring together the design community. Being active in the foundation allows me to combine helping others with my passion, which is programming.
-<p><img src="./images/acronBanner.svg" alt="personal website screen gif" height="30"/></p>
 
 </br>
 
