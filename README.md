@@ -45,7 +45,7 @@ The website is fully responsive. I made the project myself using figma and gimp.
 </a>&nbsp; &nbsp;&nbsp;&nbsp;
 
 <p>Frontend: https://github.com/LukaszAmbrozewski/PersonalWebsite</p>
-<p>Live: https://www.lukaszambrozewski.pl/</p>
+<p>Live: https://lukaszambrozewski.pl/</p>
 
 
 #### Technologies used
