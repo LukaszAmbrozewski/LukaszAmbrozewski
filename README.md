@@ -26,25 +26,13 @@ I have always been interested in technology and creating new products. In May 20
 
 </br>
 
-###  👨‍💼 I'm looking for a job.
-
-<<<<<<< HEAD
-### 🌱 I'm currently improve me skills in NestJS and React.js.
-
-</br>
-
-## My social activity
-In October 2022, I started as a <b>Junior React Developer</b> at the Neuron Foundation. Together with a team of IT professionals, we are building a platform to bring together the design community. Being active in the foundation allows me to combine helping others with my passion, which is programming.
-<p><img src="./images/acronBanner.svg" alt="personal website screen gif" height="30"/></p>
-=======
-### 🌱 I'm currently improving my skills in NestJS and React.js.
->>>>>>> origin/main
+### 🌱 I'm currently improving my skills in React.js.
 
 </br>
 
 ## Projects 🚩
 
-### Personal Website
+### Landing Page
 
 This is a simple landing page created in React and TypeScript based on a graphic design. The graphic design is a free
 template downloaded from Figmaland.com. The completed page is fully responsive which allows the content to display
