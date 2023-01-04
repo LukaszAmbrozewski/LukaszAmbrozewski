@@ -28,11 +28,50 @@ I have always been interested in technology and creating new products. In May 20
 
 ###  👨‍💼 I'm looking for a job.
 
+<<<<<<< HEAD
+### 🌱 I'm currently improve me skills in NestJS and React.js.
+
+</br>
+
+## My social activity
+In October 2022, I started as a <b>Junior React Developer</b> at the Neuron Foundation. Together with a team of IT professionals, we are building a platform to bring together the design community. Being active in the foundation allows me to combine helping others with my passion, which is programming.
+<p><img src="./images/acronBanner.svg" alt="personal website screen gif" height="30"/></p>
+=======
 ### 🌱 I'm currently improving my skills in NestJS and React.js.
+>>>>>>> origin/main
 
 </br>
 
 ## Projects 🚩
+
+### Personal Website
+
+This is a simple landing page created in React and TypeScript based on a graphic design. The graphic design is a free
+template downloaded from Figmaland.com. The completed page is fully responsive which allows the content to display
+properly on a computer, laptop, tablet and smartphone. During the implementation of this project I learned to work with
+the SASS preprocessor.
+
+<a href="https://lambrozewski.smallhost.pl/" target="_blank" rel="noreferrer">
+</br>
+<img src="./images/screen-finished-landing-page.svg" alt="Landing page screen." height="400"/>
+</a>&nbsp; &nbsp;&nbsp;&nbsp;
+
+<p>Frontend: https://github.com/LukaszAmbrozewski/landing-page</p>
+<p>Live: https://lambrozewski.smallhost.pl//</p>
+
+#### Technologies used
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> &nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+</p>
+</br>
+</br>
 
 ### Personal Website
 
